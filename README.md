@@ -30,4 +30,4 @@ If you have any questions, please contact:
 ## Links
 
 - Here is the repo: [https://github.com/bgould86/note-taker-pwa](https://github.com/bgould86/note-taker-pwa)
-- Here is the deployed app: [https://youtube.com/watch?v=wdw1-1Yfv4w](https://youtube.com/watch?v=wdw1-1Yfv4w)
+- Here is the deployed app: [https://just-another-text-editor-bdg.herokuapp.com/](https://just-another-text-editor-bdg.herokuapp.com/)
